@@ -1,0 +1,2 @@
+# EsDemo
+一个基于ES和SpringBoot的轻量级仿京东搜索Web项目
